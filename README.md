@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://hamid-mu.vercel.app/](https://hamid-mu.vercel.app/)
+- 👨‍💻 my portfolio: [https://hamid-mu.vercel.app/](https://hamid-mu.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
